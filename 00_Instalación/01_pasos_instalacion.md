@@ -29,9 +29,9 @@ setx PATH "%PATH%;%JAVA_HOME%\bin"
 ```
 Cerrar PowerShell y abrir uno nuevo.  
 O dirigirse a variables de entorno y agregar las siguientes variable:
-![img_1.png](img_1.png)  
+![img_1.png](src/img_1.png)  
 y en el path  
-![img_2.png](img_2.png)  
+![img_2.png](src/img_2.png)  
 Verificar:
 ```powershell
 java -version
@@ -64,7 +64,7 @@ setx PYSPARK_PYTHON "C:/Users/User_Kenny/Documents/_KENNEDY_MOLINA_PROYECTOS/pys
 setx PYSPARK_DRIVER_PYTHON "C:/Users/User_Kenny/Documents/_KENNEDY_MOLINA_PROYECTOS/pyspark-advanced-databricks/.venv/Scripts/python.exe"
 ```  
 Agregar variables de entorno para apuntar a Pyspark
-![img_3.png](img_3.png)  
+![img_3.png](src/img_3.png)  
 Cerrar PowerShell y abrir uno nuevo.
 
 ---
