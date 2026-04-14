@@ -1,0 +1,6 @@
+venv/
+.venv/
+.idea/
+idea/
+a.py
+b.py
